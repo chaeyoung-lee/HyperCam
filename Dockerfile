@@ -28,4 +28,4 @@ RUN pip install --upgrade pip && \
 # Copy the rest of your application code into the container
 COPY . .
 
-CMD ["python", "test.py"]
+CMD ["python", "test_all.py"]
