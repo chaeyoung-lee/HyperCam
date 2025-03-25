@@ -1,0 +1,12 @@
+data: "mnist"
+width: 28
+height: 28
+class: 10
+pixel: 256
+pixel_resolution: 1
+encoding: "naive"
+hv_length: 10000
+classifier:
+  iteration: 300
+  learning_rate: 1
+store: 1

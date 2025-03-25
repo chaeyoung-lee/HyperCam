@@ -1,0 +1,13 @@
+data: "mnist"
+width: 28
+height: 28
+class: 10
+pixel: 256
+pixel_resolution: 1
+encoding: "hypercam-bloomfilter"
+density: 20
+hv_length: 10000
+classifier:
+  iteration: 500
+  learning_rate: 1
+store: 0
