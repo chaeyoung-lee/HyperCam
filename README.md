@@ -1,9 +1,5 @@
 # HyperCam
-Low-Power Onboard Computer Vision for IoT Cameras ([paper](https://arxiv.org/abs/2501.10547))
-
-Chae Young Lee, Pu (Luke)Yi, Maxwell Fite, Tejus Rao, Sara Achour, Zerina Kapetanovic
-
-Stanford University
+Low-Power Onboard Computer Vision for IoT Cameras
 
 ### Usage
 
