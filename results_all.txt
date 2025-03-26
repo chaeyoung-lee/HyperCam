@@ -1,0 +1,36 @@
+
+### Run 1/2 ###
+
+Evaluating on MNIST...
+Config: vanillahdc -> Accuracy: 0.8550
+Config: countsketch -> Accuracy: 0.8750
+Config: bloomfilter -> Accuracy: 0.8800
+
+Evaluating on FASHION-MNIST...
+Config: vanillahdc -> Accuracy: 0.7750
+Config: countsketch -> Accuracy: 0.7400
+Config: bloomfilter -> Accuracy: 0.7350
+
+### Run 2/2 ###
+
+Evaluating on MNIST...
+Config: vanillahdc -> Accuracy: 0.8550
+Config: countsketch -> Accuracy: 0.8750
+Config: bloomfilter -> Accuracy: 0.8800
+
+Evaluating on FASHION-MNIST...
+Config: vanillahdc -> Accuracy: 0.7750
+Config: countsketch -> Accuracy: 0.7400
+Config: bloomfilter -> Accuracy: 0.7350
+
+### Final Results Summary ###
+
+Dataset: MNIST
+  - vanillahdc: 0.8550, 0.8550 | Avg: 0.8550
+  - countsketch: 0.8750, 0.8750 | Avg: 0.8750
+  - bloomfilter: 0.8800, 0.8800 | Avg: 0.8800
+
+Dataset: FASHION-MNIST
+  - vanillahdc: 0.7750, 0.7750 | Avg: 0.7750
+  - countsketch: 0.7400, 0.7400 | Avg: 0.7400
+  - bloomfilter: 0.7350, 0.7350 | Avg: 0.7350
